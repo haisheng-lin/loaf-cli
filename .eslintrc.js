@@ -13,12 +13,8 @@ module.exports = {
     ecmaVersion: 2020
   },
   plugins: ['@typescript-eslint'],
-  overrides: [
-    {
-      files: ['bin/*.js'],
-      rules: {
-        '@typescript-eslint/no-var-requires': 'off'
-      }
-    }
-  ]
+  rules: {
+    '@typescript-eslint/ban-ts-comment': 'off',
+    '@typescript-eslint/no-var-requires': 'off'
+  }
 };
