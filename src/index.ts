@@ -1,5 +1,4 @@
-// @ts-ignore
-const inquirer = require('inquirer');
+import inquirer from 'inquirer';
 import fundService from './services/fund';
 
 type LoafService = 'fund';
