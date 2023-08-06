@@ -1,2 +1,15 @@
 # loaf-cli
-上班摸鱼命令行工具
+
+## usage
+
+First install the package:
+
+```shell
+npm install -g @link/loaf-cli
+```
+
+Execute the following command to enjoy:
+
+```shell
+loaf
+```
