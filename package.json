@@ -18,6 +18,9 @@
     "type": "git",
     "url": "https://github.com/haisheng-lin/loaf-cli.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "ISC",
   "scripts": {
     "build": "tsc",
