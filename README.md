@@ -5,7 +5,7 @@
 First install the package:
 
 ```shell
-npm install -g @link/loaf-cli
+npm install -g @haisheng-lin/loaf-cli
 ```
 
 Execute the following command to enjoy:

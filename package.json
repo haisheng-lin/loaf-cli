@@ -1,5 +1,5 @@
 {
-  "name": "@link/loaf-cli",
+  "name": "@haisheng-lin/loaf-cli",
   "version": "0.0.0",
   "description": "上班摸鱼命令行工具",
   "main": "bin/index.js",
